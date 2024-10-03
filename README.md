@@ -49,9 +49,6 @@ This is Blackpink's picture.
 # Let's introduce Ngoc Dan Le
 
 
-### All the information about me!
-
-
 
 ## ABOUT ME
 
@@ -59,12 +56,10 @@ This is Blackpink's picture.
 **Hi, I'm Ngoc Dan Le born in 2005 and raised in the largest city in Vietnam, called Ho Chi Minh City. I'm an introvert person and people also included my friends said that I act like a clown, but uhm it's my natural way of communication to others**
 
 ![My younger ver](images/youngme.jpg)
-
 *This is me when I was 3 years old*
 
 
 ![My Picture](images/z5891182095933_cb92784352c1375f3b5790fbb6dcf1a5.jpg)
-
 *This is me again hehehe*
 
 This is me sitting in a "self-study" class in 12th grade but instead of study me and my classmates watched horror movie while waiting for school and parents meeting^^ But don't get me wrong, we still get our works done.
@@ -77,29 +72,24 @@ This is me sitting in a "self-study" class in 12th grade but instead of study me
 *This is me and my classmates after finished the National Exam*
 
 ![Highschool Grad image](images/z5891760087741_80c0d7a3b615b8331e20c8b8c2c6c3de.jpg)
-
 *This is my Graduation picture*
 
 ![Me and my mom](images/momandme.jpg)
-
 *This is me and my lovely mom*
 
 
 I study at Western Australian International School from 1st grade until I graduated highschool in the summer of 2023. It was a fun place to study i guess...but anyways me and my 2 bff have alot of beautiful memories there!
 
 
-## F4 Girls Over Flowers GROUP
+## F4 GIRLS OVER PARODY GROUP
 
 ![Graduation memory](images/bffpic.jpg)
-
 *This is me and my friend*
 
 ![Beard meme](images/memepic.jpg)
-
 *This is us with the Instagram filter on*
 
 ![Group pic](images/3%20of%204.jpg)
-
 *This is us again*
 
 Mabey you''ll questioning why is it F4 but there's only 3 of us! The 4th member of the group live far away from us so yea.
@@ -109,11 +99,9 @@ Mabey you''ll questioning why is it F4 but there's only 3 of us! The 4th member 
 ## UNI AND COLLEGE LIFE
 
 ![My University friends](images/z5891246554551_6b4fd6a3672772b70ec5450864e89744.jpg)
-
 *This is my friend in the University*
 
 ![My College friends](images/z5892036865672_20b75d898e25ea0a94c539116c22f218.jpg)
-
 *This is me and the gang gang girls in Fanshawe*
 
 
@@ -124,7 +112,7 @@ After I graduated highschool I attend in Hoa Sen University majored in fashion d
 
 ## MY INTERSTS
 
-# Food
+### Food
 
 **I love Vietnamese foods and drinks and this is my top 3 favourites**
 1. Bun Bo
@@ -136,7 +124,7 @@ After I graduated highschool I attend in Hoa Sen University majored in fashion d
 *This is a picture of Vietnamese food*
 
 
-# Celeb
+### Celeb
 
 **I adore listening to music especially Jpop and Kpop**
 
