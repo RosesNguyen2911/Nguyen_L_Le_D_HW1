@@ -57,14 +57,14 @@ This is Blackpink's picture.
 
 **Hi, I'm Ngoc Dan Le born and raised in the largest city in Vietnam, Ho Chi Minh City. I was born in 2005**
 
-![My younger me](images/youngme.jpg)
+![My younger ver](images/youngme.jpg)
 
-*This is me whem I was 3 years old*
+*This is me when I was 3 years old*
 
 
 ![My Picture](images/z5891182095933_cb92784352c1375f3b5790fbb6dcf1a5.jpg)
 
-*This is me ofc hehehe*
+*This is me again hehehe*
 
 This is me sitting in a "self-study" class in 12th grade but instead of study me and my classmates watched horror movie while waiting for school and parents meeting^^ But don't get me wrong, we still get our works done.
 
