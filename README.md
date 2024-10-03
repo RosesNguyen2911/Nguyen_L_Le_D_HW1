@@ -72,7 +72,7 @@ This is me sitting in a "self-study" class in 12th grade but instead of study me
 *This is me and my classmates after finished the National Exam*
 
 ![Highschool Grad image](images/z5891760087741_80c0d7a3b615b8331e20c8b8c2c6c3de.jpg)
-*This is my Graduation picture*
+  *This is my Graduation picture*
 
 ![Me and my mom](images/momandme.jpg)
 *This is me and my lovely mom*
@@ -102,7 +102,7 @@ Mabey you''ll questioning why is it F4 but there's only 3 of us! The 4th member 
 *This is my friend in the University*
 
 ![My College friends](images/z5892036865672_20b75d898e25ea0a94c539116c22f218.jpg)
-*This is me and the gang gang girls in Fanshawe*
+*This is me and the gang gang girls at Fanshawe*
 
 
 After I graduated highschool I attend in Hoa Sen University majored in fashion design, it is a stress but fun major! But now I'm majoring in Interactive Media Design. I hope it would be a great journey!
