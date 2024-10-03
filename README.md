@@ -88,7 +88,7 @@ This is me sitting in a "self-study" class in 12th grade but instead of study me
 I study at Western Australian International School from 1st grade until I graduated highschool in the summer of 2023. It was a fun place to study i guess...but anyways me and my 2 bff have alot of beautiful memories there!
 
 
-## THE F4 Girls Over Flowers GROUP
+## F4 Girls Over Flowers GROUP
 
 ![Graduation memory](images/bffpic.jpg)
 
