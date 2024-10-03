@@ -56,7 +56,7 @@ This is Blackpink's picture.
 ## ABOUT ME
 
 
-**Hi, I'm Ngoc Dan Le born in 2005 and raised in the largest city in Vietnam, called Ho Chi Minh City. I'm an introvert person and my friend said that I act like a clown in the group, but uhm it's my natural way of communication to others **
+**Hi, I'm Ngoc Dan Le born in 2005 and raised in the largest city in Vietnam, called Ho Chi Minh City. I'm an introvert person and people also included my friends said that I act like a clown, but uhm it's my natural way of communication to others**
 
 ![My younger ver](images/youngme.jpg)
 
