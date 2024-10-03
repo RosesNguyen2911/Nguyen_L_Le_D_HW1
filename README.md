@@ -69,7 +69,7 @@ This is me sitting in a "self-study" class in 12th grade but instead of study me
 
 ![Highschool Grad image](images/z5891760087741_80c0d7a3b615b8331e20c8b8c2c6c3de.jpg)
 
-*This is my Graduate picture*
+*This is my Graduation picture*
 
 
 I study at Western Australian International School from 1st grade until I graduated highschool in the summer of 2023. It was a fun place to study i guess...but anyways me and my 2 bff have alot of beautiful memories there!
@@ -102,5 +102,7 @@ After I graduated highschool I attend in Hoa Sen University majored in fashion d
 # Celeb
 
 ![Jpop favourite band](images/z5891871916049_c26241f9949df8b24c80ab9ef80b30d9.jpg)
+*This is my favorite Jpop boyband, called Naniwa Danshi*
 
 ![Kpop favourite band](images/NCT-3.jpg)
+*This is my favorite Kpop boyband, called NCT*
